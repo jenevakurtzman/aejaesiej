@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiyohsaede.retrieval.online/sitemap.xml
